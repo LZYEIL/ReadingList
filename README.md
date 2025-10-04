@@ -19,6 +19,8 @@ Pull requests for additions / fixes welcome!
 * [Taste comes before skill](https://jamesclear.com/ira-glass-failure)
 * [Ego and Math](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 * [Heckerthoughts](https://arxiv.org/pdf/2302.05449)
+* [How to do research](https://pengsida.net/files/Bill_Freeman_How_to_do_research.pdf) - Bill Freeman
+* [Principles of Effective Research](https://pengsida.net/files/Michael_Nielsen_How_to_do_research.pdf) - Michael A. Nielsen
 * [Hanging on to the Edges: Staying in the Game](http://www.danielnettle.org.uk/wp-content/uploads/2017/09/Staying-in-the-game.pdf) - Daniel Nettle
 * [You and Your Research](http://www.cs.cmu.edu/~15712/papers//hamming86.pdf) - Richard Hamming
 * [The Structure of Scientific Revolutions](http://projektintegracija.pravo.hr/_download/repository/Kuhn_Structure_of_Scientific_Revolutions.pdf) - Thomas Kuhn
